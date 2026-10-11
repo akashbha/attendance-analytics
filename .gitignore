@@ -5,3 +5,11 @@ venv/
 __pycache__/
 .pytest_cache/
 *.pyc
+tests/
+sample_data/
+sample_seed.py
+pytest.ini
+DATA_MODEL.md
+PROBLEM_STATEMENT.docx
+openapi.yaml
+app/__init__.py
